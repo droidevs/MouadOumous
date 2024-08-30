@@ -17,3 +17,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouadoumous&hide_progress=true)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mouad.oumous)
+
+[![Mouad Oumous Medium](https://github-readme-medium.vercel.app/?username=w3developers&limit=2&bg=red&text=green)](https://medium.com/@w3developers)
+
