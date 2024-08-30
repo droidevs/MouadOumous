@@ -11,12 +11,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mouadoumous&count_private=true&show_icons=true&include_all_commits=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouadoumous&hide_progress=true)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mouad.oumous)
-
-[![Mouad Oumous Medium](https://github-readme-medium.vercel.app/?username=w3developers&limit=2&bg=red&text=green)](https://medium.com/@w3developers)
 
