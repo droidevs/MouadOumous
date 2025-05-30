@@ -10,8 +10,39 @@
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
+# 🔧 Technical Skills Matrix
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouadoumous&hide_progress=true)
+<div align="center">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mouad.oumous)
+## **🧰 My Toolbox**  
+*(Hover for details)*  
 
+| Category              | Technologies                                                                 |
+|-----------------------|-----------------------------------------------------------------------------|
+| **Mobile**           | ![Kotlin](https://img.shields.io/badge/Kotlin-1.9-%237F52FF?logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-14-%233DDC84?logo=android) ![Flutter](https://img.shields.io/badge/Flutter-3.16-%2302569B?logo=flutter) |
+| **Backend**          | ![Java](https://img.shields.io/badge/Java-Expert-%23ED8B00?logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-3.2-blue?logo=spring) |
+| **Frontend**         | ![React](https://img.shields.io/badge/React-18-%2361DAFB?logo=react) [![JavaScript](https://img.shields.io/badge/JavaScript-ES2023-%23F7DF1E?logo=javascript&logoColor=black)]() ![Tailwind](https://img.shields.io/badge/Tailwind-3-%2306B6D4?logo=tailwindcss) |
+| **DevOps**           | ![Docker](https://img.shields.io/badge/Docker-24-%232496ED?logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-1.29-%23326CE5?logo=kubernetes) ![AWS](https://img.shields.io/badge/AWS-Certified-%23FF9900?logo=amazonaws) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Expert-%232088FF?logo=githubactions)]() |
+| **Data**             | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-%234169E1?logo=postgresql) ![MongoDB](https://img.shields.io/badge/MongoDB-7-%2347A248?logo=mongodb) ![Redis](https://img.shields.io/badge/Redis-7-%23DC382D?logo=redis) |
+| **Testing & Debugging** | ![JUnit5](https://img.shields.io/badge/JUnit-5-%2325A162?logo=junit5) ![Mockito](https://img.shields.io/badge/Mockito-5-%2325A162?logo=java) ![Postman](https://img.shields.io/badge/Postman-10-%23FF6C37?logo=postman) ![Debugging](https://img.shields.io/badge/Debugging-Expert-%230175C2?logo=visualstudiocode) ![Selenium](https://img.shields.io/badge/Selenium-4-%2343B02A?logo=selenium) |
+| **Tools**            | ![IntelliJ](https://img.shields.io/badge/IntelliJ-2023.3-%23000000?logo=intellijidea) ![Git](https://img.shields.io/badge/Git-2.44-%23F05032?logo=git) ![Linux](https://img.shields.io/badge/Linux-Expert-%23FCC624?logo=linux) |
+
+</div>
+
+<details>
+<summary><b>📈 Skill Meter (Click to Expand)</b></summary>
+
+```mermaid
+%%{init: {'theme':'neutral'}}%%
+barChart
+    title Proficiency Level
+    xAxis Category
+    yAxis 0-->100
+    bar "Kotlin" : 85
+    bar "Android" : 90
+    bar "Flutter" : 80
+    bar "Java" : 95
+    bar "Spring Boot" : 90
+    bar "Docker" : 85
+    bar "React" : 80
+    bar "PostgreSQL" : 88
