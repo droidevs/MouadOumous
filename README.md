@@ -33,19 +33,3 @@
 </div>
 
 <details>
-<summary><b>📈 Skill Meter (Click to Expand)</b></summary>
-
-```mermaid
-%%{init: {'theme':'neutral'}}%%
-barChart
-    title Proficiency Level
-    xAxis Category
-    yAxis 0-->100
-    bar "Kotlin" : 85
-    bar "Android" : 90
-    bar "Flutter" : 80
-    bar "Java" : 95
-    bar "Spring Boot" : 90
-    bar "Docker" : 85
-    bar "React" : 80
-    bar "PostgreSQL" : 88
