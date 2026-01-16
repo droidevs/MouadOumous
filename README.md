@@ -33,13 +33,11 @@
 </div>
 
 ## 👋 Hi, I'm Mouad
-
+https://github-readme-stats-rho-gray-6y4axown2e.vercel.app/
 ### 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=droidevs&show_icons=true&theme=tokyonight)
+![Mouad's GitHub stats](https://github-readme-stats-rho-gray-6y4axown2e.vercel.app/api?username=droidevs&show_icons=true&theme=radical)
 
 ### 🧠 Languages by Usage
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=droidevs&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-rho-gray-6y4axown2e.vercel.app/api/top-langs/?username=droidevs&layout=compact&theme=tokyonight)
 
-### 📈 Code Metrics
-![Metrics](https://metrics.lecoq.io/droidevs?template=classic&languages=1&lines=1)
 
