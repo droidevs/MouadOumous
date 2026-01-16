@@ -32,4 +32,14 @@
 
 </div>
 
-<details>
+## 👋 Hi, I'm Mouad
+
+### 📊 GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=droidevs&show_icons=true&theme=tokyonight)
+
+### 🧠 Languages by Usage
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=droidevs&layout=compact&theme=tokyonight)
+
+### 📈 Code Metrics
+![Metrics](https://metrics.lecoq.io/droidevs?template=classic&languages=1&lines=1)
+
