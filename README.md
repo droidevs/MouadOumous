@@ -33,7 +33,6 @@
 </div>
 
 ## 👋 Hi, I'm Mouad
-https://github-readme-stats-rho-gray-6y4axown2e.vercel.app/
 ### 📊 GitHub Activity
 ![Mouad's GitHub stats](https://github-readme-stats-rho-gray-6y4axown2e.vercel.app/api?username=droidevs&show_icons=true&theme=radical)
 
