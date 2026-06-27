@@ -47,7 +47,8 @@ PHP          --> 13,182 lines
 TypeScript   --> 10,151 lines
 JSX          --> 2,193 lines
 JavaScript   --> 2,003 lines
-Others       --> 130,846 lines
+SQL          --> 1,387 lines
+Others       --> 129,459 lines
 
 [ TOTAL LINES OF CODE: 158,375 ]
 ```
