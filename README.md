@@ -43,6 +43,8 @@
 ```
 [ LANGUAGES BREAKDOWN ]
 
+JAVA         --> 21,32 lines
+KOTLIN       --> 32,43 lines
 PHP          --> 13,182 lines
 TypeScript   --> 10,151 lines
 JSX          --> 2,193 lines
