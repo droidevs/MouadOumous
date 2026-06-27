@@ -39,4 +39,18 @@
 ### 🧠 Languages by Usage
 ![Top Languages](https://github-readme-stats-rho-gray-6y4axown2e.vercel.app/api/top-langs/?username=droidevs&layout=compact&theme=tokyonight)
 
+ <!-- LANGUAGES BREAKDOWN START -->
+ 
+ [ LANGUAGES BREAKDOWN ]
 
+Java         --> 211,11 lines
+Kotlin       --> 32,43 lines
+PHP          --> 32,43 lines
+JSX          --> 20,576 lines
+JavaScript   --> 134,127 lines
+TypeScript   --> 317,060 lines
+Others       --> 9,942 lines
+
+[ TOTAL LINES OF CODE: 486,953 ]
+
+<!-- LANGUAGES BREAKDOWN END -->
