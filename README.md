@@ -43,12 +43,15 @@
 ```
 [ LANGUAGES BREAKDOWN ]
 
+Kotlin       --> 67,088 lines
+Java         --> 40,349 lines
 PHP          --> 13,182 lines
 TypeScript   --> 10,151 lines
+Python       --> 3,236 lines
 JSX          --> 2,193 lines
 JavaScript   --> 2,003 lines
 SQL          --> 1,387 lines
-Others       --> 129,459 lines
+Others       --> 18,786 lines
 
 [ TOTAL LINES OF CODE: 158,375 ]
 ```
