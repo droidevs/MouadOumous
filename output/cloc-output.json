@@ -1,0 +1,124 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.98",
+  "elapsed_seconds"    : 1.51865410804749,
+  "n_files"            : 3843,
+  "n_lines"            : 206499,
+  "files_per_second"   : 2530.53014484048,
+  "lines_per_second"   : 135975.005042783,
+  "report_file"        : "../output/cloc-output.json"},
+"Kotlin" :{
+  "nFiles": 1657,
+  "blank": 10497,
+  "comment": 3205,
+  "code": 67088},
+"Java" :{
+  "nFiles": 1117,
+  "blank": 9952,
+  "comment": 5414,
+  "code": 40349},
+"PHP" :{
+  "nFiles": 377,
+  "blank": 3088,
+  "comment": 3627,
+  "code": 13182},
+"TypeScript" :{
+  "nFiles": 67,
+  "blank": 734,
+  "comment": 24,
+  "code": 10151},
+"Blade" :{
+  "nFiles": 104,
+  "blank": 581,
+  "comment": 104,
+  "code": 8037},
+"Dart" :{
+  "nFiles": 94,
+  "blank": 870,
+  "comment": 347,
+  "code": 6811},
+"Python" :{
+  "nFiles": 188,
+  "blank": 1083,
+  "comment": 405,
+  "code": 3236},
+"JSX" :{
+  "nFiles": 55,
+  "blank": 309,
+  "comment": 23,
+  "code": 2193},
+"JavaScript" :{
+  "nFiles": 50,
+  "blank": 357,
+  "comment": 252,
+  "code": 2003},
+"Gradle" :{
+  "nFiles": 40,
+  "blank": 294,
+  "comment": 110,
+  "code": 1404},
+"SQL" :{
+  "nFiles": 46,
+  "blank": 444,
+  "comment": 251,
+  "code": 1387},
+"JSP" :{
+  "nFiles": 13,
+  "blank": 166,
+  "comment": 121,
+  "code": 763},
+"Maven" :{
+  "nFiles": 7,
+  "blank": 69,
+  "comment": 45,
+  "code": 643},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 86,
+  "comment": 206,
+  "code": 453},
+"DOS Batch" :{
+  "nFiles": 3,
+  "blank": 66,
+  "comment": 4,
+  "code": 301},
+"XHTML" :{
+  "nFiles": 4,
+  "blank": 8,
+  "comment": 0,
+  "code": 107},
+"Dockerfile" :{
+  "nFiles": 6,
+  "blank": 43,
+  "comment": 25,
+  "code": 83},
+"Jupyter Notebook" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 5258,
+  "code": 77},
+"Nix" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 17,
+  "code": 51},
+"INI" :{
+  "nFiles": 5,
+  "blank": 12,
+  "comment": 1,
+  "code": 50},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 6},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 18,
+  "code": 0},
+"SUM": {
+  "blank": 28667,
+  "comment": 19457,
+  "code": 158375,
+  "nFiles": 3843} }
